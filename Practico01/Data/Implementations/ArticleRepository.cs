@@ -1,4 +1,6 @@
-﻿using Practico01.Domain;
+﻿using Practico01.Data.Helpers;
+using Practico01.Data.Interfaces;
+using Practico01.Domain;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -6,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practico01.Data
+namespace Practico01.Data.Implementations
 {
     public class ArticleRepository : IArticleRepository
     {

@@ -1,4 +1,6 @@
 ﻿using Practico01.Data;
+using Practico01.Data.Implementations;
+using Practico01.Data.Interfaces;
 using Practico01.Domain;
 using System;
 using System.Collections.Generic;
@@ -23,12 +25,10 @@ namespace Practico01.Services
         {
             bool exito;
 
-            // El Service sirve para agregar lógica de negocio según corresponda
-            // En este caso, verificamos que no exista un producto con el mismo código
-            var productEnBD = _repositorio.GetById(article.Id);
 
-            // Si no existe, lo guardamos
-            if (productEnBD == null)
+            var ArticleEnBD = _repositorio.GetById(article.Id);
+
+            if (ArticleEnBD == null)
             {
                 exito = _repositorio.Save(article);
             }

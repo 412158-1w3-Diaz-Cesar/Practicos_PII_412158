@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Data;
 
 
-namespace Practico01.Data
+namespace Practico01.Data.Helpers
 {
     public class DataHelper
     {

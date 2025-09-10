@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Practico01.Domain;
 
-namespace Practico01.Data
+namespace Practico01.Data.Interfaces
 {
     public interface IArticleRepository
     {

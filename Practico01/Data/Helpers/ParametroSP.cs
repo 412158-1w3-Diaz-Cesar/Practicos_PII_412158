@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practico01.Data
+namespace Practico01.Data.Helpers
 {
     public class ParametroSP
     {

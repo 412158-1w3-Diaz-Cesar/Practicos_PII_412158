@@ -11,7 +11,7 @@ namespace Practico01.Data.Helpers
 {
     public class DataHelper
     {
-        private static DataHelper _instancia;
+        private static DataHelper? _instancia;
         private SqlConnection _connection;
 
         private DataHelper()

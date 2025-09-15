@@ -14,5 +14,5 @@ if (la.Count > 0)
         Console.WriteLine(A);
 }
 else
-    Console.WriteLine("No hay articulos.........")
+    Console.WriteLine("No hay articulos.........");
 

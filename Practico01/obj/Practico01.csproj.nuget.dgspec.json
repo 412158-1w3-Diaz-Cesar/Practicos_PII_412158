@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cesar\\source\\repos\\PROGRAMACION II\\Practico01\\Practico01.csproj": {}
+    "C:\\Users\\cesar\\OneDrive\\Escritorio\\Practicos_PII_412158\\Practico01\\Practico01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cesar\\source\\repos\\PROGRAMACION II\\Practico01\\Practico01.csproj": {
+    "C:\\Users\\cesar\\OneDrive\\Escritorio\\Practicos_PII_412158\\Practico01\\Practico01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cesar\\source\\repos\\PROGRAMACION II\\Practico01\\Practico01.csproj",
+        "projectUniqueName": "C:\\Users\\cesar\\OneDrive\\Escritorio\\Practicos_PII_412158\\Practico01\\Practico01.csproj",
         "projectName": "Practico01",
-        "projectPath": "C:\\Users\\cesar\\source\\repos\\PROGRAMACION II\\Practico01\\Practico01.csproj",
+        "projectPath": "C:\\Users\\cesar\\OneDrive\\Escritorio\\Practicos_PII_412158\\Practico01\\Practico01.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cesar\\source\\repos\\PROGRAMACION II\\Practico01\\obj\\",
+        "outputPath": "C:\\Users\\cesar\\OneDrive\\Escritorio\\Practicos_PII_412158\\Practico01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

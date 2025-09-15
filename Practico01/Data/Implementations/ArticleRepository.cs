@@ -57,7 +57,6 @@ namespace Practico01.Data.Implementations
             };
             var dt = DataHelper.GetInstance().ExecuteSPQuery("SP_RECUPERAR_PRODUCTO_POR_CODIGO", param);
 
-            // Si vino un registro, lo mapeamos a Product y lo retornamos
             if (dt != null && dt.Rows.Count > 0)
             {
                 Article A = new Article()
